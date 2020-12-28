@@ -1,5 +1,6 @@
 ### Type of PR
 - [ ] Bug fix
+- [ ] Release
 - [ ] New feature
 - [ ] Non-behavior changing refactor
 
@@ -9,6 +10,7 @@
 ### PR Checklist
 - [ ] I self-reviewed this PR
 - [ ] I ran the code locally (please specify below which parts of code were run)
+- [ ] I considered the implications of this PR on other repos or systems.
 - [ ] In hindsight, this should have been broken into multiple PRs
 
 #### Additional details:
