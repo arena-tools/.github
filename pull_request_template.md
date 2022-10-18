@@ -5,7 +5,7 @@
 - [ ] Non-behavior changing refactor
 
 ### Changes
-- [brief description of the changes in this PR]
+- [brief description of the changes in this PR & why you are making this change]
 
 ### Story/Task/Bug
 - [Asana link for PR, if available]
