@@ -8,14 +8,15 @@
 - [brief description of the changes in this PR & why you are making this change]
 
 ### Story/Task/Bug
-- [Asana link for PR, if available]
+- [Asana/Notion task link for PR, if available]
 
 ### PR Checklist
 - [ ] I self-reviewed this PR
 - [ ] I ran the code locally (please specify below which parts of code were run)
+- [ ] I added / updated data check schemas (ex. for Pandera) for all data changes made in this PR
 - [ ] I considered the implications of this PR on other repos or systems.
 - [ ] In hindsight, this should have been broken into multiple PRs
-- [ ] I added the Asana link, or made sure an Asana task doesn't exist for this PR
+- [ ] I added the task link, or made sure a task doesn't exist for this PR
 
 #### Additional details:
 ` `
