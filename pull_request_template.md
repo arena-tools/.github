@@ -10,6 +10,9 @@
 ### Story/Task/Bug
 - [Asana/Notion task link for PR, if available]
 
+### QA Plan [if applicable - to be run through by a code reviewer]
+- 
+
 ### PR Checklist
 - [ ] I self-reviewed this PR
 - [ ] I ran the code locally (please specify below which parts of code were run)
