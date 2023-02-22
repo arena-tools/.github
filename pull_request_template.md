@@ -3,6 +3,7 @@
 - [ ] Release
 - [ ] New feature
 - [ ] Non-behavior changing refactor
+- [ ] Upstream dependency change
 
 ### Changes
 - [brief description of the changes in this PR & why you are making this change]
