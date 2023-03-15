@@ -1,7 +1,7 @@
 ### Changes
-- *Why*:
-- *How/What*:
-- *[optional] Ticket*:
+- **Why?**:
+- **How? / What?**:
+- [optional] **Ticket**:
 
 ### PR Checklist
 - [ ] I self-reviewed this PR.
