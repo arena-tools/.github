@@ -1,12 +1,8 @@
-### Changes
-- **Why?**:
-- **How? / What?**:
-- [optional] **Ticket**:
+## Motivation
+[Why this change is needed]
 
-### PR Checklist
-- [ ] I self-reviewed this PR.
-- [ ] I ran the code locally and/or added unittests.
-- [ ] I added/updated data checks.
+## Changes
+[What was changed]
 
------
-Please ensure you've reviewed Arena's PR guidelines https://docs.google.com/document/d/1wtBKwuR8tbrGAOLXgiz7gitBjTSfMXiFIoevYePNS24
+## Test plan
+[How the changes were tested]
